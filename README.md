@@ -3,5 +3,5 @@ Infographic posters about thanking a coworker using Growth Mindset principles.
 
 Read the blog: https://sarah-packowski.medium.com/thanks-with-a-growth-mindset-70e6a8dc3c0d
 
-<img src="images/posters.png" width="90%" alt="Three posters" />
+<img src="images/posters-w-border.png" width="90%" alt="Three posters" />
 
